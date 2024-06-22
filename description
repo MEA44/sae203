@@ -1,0 +1,19 @@
+L'objectif de cette SAE est de faire développer et déployer une solution informatique complète en respectant un cahier des charges.
+
+Cette tâche va mobiliser des savoirs divers acquis dans différentes ressources :
+
+la programmation ;
+le système et l'administration système ;
+le réseau (de façon marginale).
+  
+2. Présentation rapide du sujet
+  
+Un entreprise est implantée sur plusieurs sites. Chaque site possède son propre réseau et est administré par une équipe "systèmes et réseaux" locale.
+
+Les incidents réseau et système, appelés par la suite événements, sont répertoriés sur chaque site. Ils donnent lieu à la production d'un flux RSS (voir plus loin).
+
+Le service central Informatique & Réseaux de l'entreprise souhaite avoir une vue globale des incidents.
+
+Votre travail : développer un programme réalisant l'aggrégation des différents flux RSS et générant une page HTML présentant l'aggrégation de ces flux.
+
+Votre solution logicielle devra être facilement déployable, c'est à dire installable sur un ensemble de machines, et configurable.
